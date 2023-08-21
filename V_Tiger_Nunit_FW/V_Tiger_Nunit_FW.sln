@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_Tiger_Nunit_FW", "V_Tiger_Nunit_FW\V_Tiger_Nunit_FW.csproj", "{052D8863-5C5A-4AE0-8B7B-96CC4D20CDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052D8863-5C5A-4AE0-8B7B-96CC4D20CDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052D8863-5C5A-4AE0-8B7B-96CC4D20CDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052D8863-5C5A-4AE0-8B7B-96CC4D20CDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052D8863-5C5A-4AE0-8B7B-96CC4D20CDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACAEE15-4C0F-41E4-8B66-1B8EDD8F8045}
+	EndGlobalSection
+EndGlobal
